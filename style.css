@@ -9,7 +9,7 @@
 body {
     color: #ededed;
     background: #000000;
-    background:url(images/blue_black_lines_shades_dark_background_hd_black.jpg);
+    background:url(blue_black_lines_shades_dark_background_hd_black.jpg);
 }
 
 .header {
@@ -19,7 +19,7 @@ body {
     width: 100%;
     padding: 20px 10%;
     background:#000000 ;
-    background:url(images/blue_black_lines_shades_dark_background_hd_black.jpg);
+    background:url(blue_black_lines_shades_dark_background_hd_black.jpg);
     display: flex;
     justify-content: space-between;
     align-items: center;
